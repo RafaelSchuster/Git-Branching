@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div>
-      <Button variant="contained" color="primary">CLick me</Button>
+      New Branch
     </div>
   );
 }
