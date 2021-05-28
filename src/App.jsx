@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div>
-      Conflicting Branch
+      Wrong commit
     </div>
   );
 }
