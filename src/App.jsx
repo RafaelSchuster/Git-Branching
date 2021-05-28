@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div>
-      Wrong commit
+      Wrong commit Change
     </div>
   );
 }
